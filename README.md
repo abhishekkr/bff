@@ -29,12 +29,14 @@ bff -path ~/Downloads -minsize 1024
 
 ### Install/Download
 
-* [latest version]()
+* [latest version](https://github.com/abhishekkr/bff/releases/latest)
 
-> * [linux]()
+* [v0.0.1 Release Page](https://github.com/abhishekkr/bff/releases/tag/v0.0.1)
+
+> * [linux](https://github.com/abhishekkr/bff/releases/download/v0.0.1/bff-linux-amd64)
 >
-> * [macos]()
+> * [macos](https://github.com/abhishekkr/bff/releases/download/v0.0.1/bff-darwin-amd64)
 >
-> * [windows]()
+> * [windows](https://github.com/abhishekkr/bff/releases/download/v0.0.1/bff-windows-amd64)
 
 ---
